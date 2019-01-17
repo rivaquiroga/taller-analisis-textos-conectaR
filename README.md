@@ -1,2 +1,3 @@
-# taller-analisis-textos-contectaR
-Taller: Análisis de textos con R | ConectaR 2019
+# Taller: Análisis de textos usando R
+## Descripción
+## Materiales y código
