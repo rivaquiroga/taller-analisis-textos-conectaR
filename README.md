@@ -12,6 +12,8 @@ Para el taller es necesario tener los siguentes paquetes instalados.
 
 ```r
 install.packages("tidyverse")
+install.packages("glue")
+
 ```
 
 ### Importación de textos a R
