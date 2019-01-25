@@ -8,12 +8,12 @@ El taller solo requiere un conocimiento básico de R: saber cómo instalar un pa
 ## Paquetes a utilizar
 Para el taller es necesario tener los siguentes paquetes instalados.
 
-### Procesamiento y visualización de datos
+### Procesamiento de datos
 
 ```r
+install.packages("tokenizers")
 install.packages("tidyverse")
 install.packages("glue")
-
 ```
 
 ### Importación de textos a R
@@ -37,7 +37,6 @@ Usuarios de Linux, revisar [el siguiente enlace para la instalación](https://gi
 install.packages("quanteda")
 install.packages("udpipe")
 install.packages("syuzhet")
-install.packages("tokenizers")
 install.packages("tidytext")
 ```
 
