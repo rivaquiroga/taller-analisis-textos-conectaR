@@ -41,7 +41,7 @@ install.packages("tidytext")
 ```
 
 ## Datos
-Los datos que usaremos en el taller están contenidos en la carpeta ConectaR_textmining en este mismo repositorio. Una versión de la misma se encuentra en este [enlace de Dropbox](https://www.dropbox.com/sh/x1u67e4cqi4zktz/AAAlpd7FIQshAlNhilVsN0uPa?dl=0).
+Los datos que usaremos en el taller están contenidos en la carpeta `ConectaR_textmining` en este mismo repositorio. Una versión de la misma se encuentra en este [enlace de Dropbox](https://www.dropbox.com/sh/x1u67e4cqi4zktz/AAAlpd7FIQshAlNhilVsN0uPa?dl=0).
 
 ## Código en vivo
 Durante el taller, todo el código que vaya escribiendo irá apareciendo en [este siguiente enlace](https://www.dropbox.com/s/d3t0jlgpbtddnug/script_taller.R?dl=0).
